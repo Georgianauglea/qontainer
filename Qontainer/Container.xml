@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<devices>
+ <device type="desktop">
+  <CPU>2.20</CPU>
+  <RAM>16</RAM>
+  <marca>Asus</marca>
+  <modello>N432</modello>
+  <hardisk>SSD</hardisk>
+  <SO>Windows 10</SO>
+  <tipologia>all-in-one</tipologia>
+  <wattMin>200.00</wattMin>
+  <nHard>2</nHard>
+  <uso>Domestico</uso>
+ </device>
+ <device type="laptop">
+  <CPU>2.20</CPU>
+  <RAM>16</RAM>
+  <marca>Acer</marca>
+  <modello>Aspire</modello>
+  <hardisk>SSD</hardisk>
+  <SO>Ubuntu</SO>
+  <tipologia>Netbook</tipologia>
+  <batteria>8000.00</batteria>
+  <pollici>15.00</pollici>
+  <peso>2.10</peso>
+ </device>
+ <device type="tablet">
+  <CPU>1.50</CPU>
+  <RAM>8</RAM>
+  <marca>Huawei</marca>
+  <modello>T654</modello>
+  <hardisk>HDD</hardisk>
+  <SO>Android 8</SO>
+  <batteria>4000.00</batteria>
+  <pollici>9.00</pollici>
+  <fotocamera>13.00</fotocamera>
+  <memoria>32</memoria>
+  <colore>Nero</colore>
+  <SIM>0</SIM>
+ </device>
+ <device type="tablet">
+  <CPU>1.50</CPU>
+  <RAM>8</RAM>
+  <marca>Huawei</marca>
+  <modello>Tab340</modello>
+  <hardisk>HDD</hardisk>
+  <SO>Android 7</SO>
+  <batteria>6000.00</batteria>
+  <pollici>7.00</pollici>
+  <fotocamera>13.00</fotocamera>
+  <memoria>32</memoria>
+  <colore>Fucsia</colore>
+  <SIM>1</SIM>
+ </device>
+ <device type="smartphone">
+  <CPU>1,70</CPU>
+  <RAM>16</RAM>
+  <marca>Samsung</marca>
+  <modello>A3</modello>
+  <hardisk>HDD</hardisk>
+  <SO>Android 6</SO>
+  <batteria>2600,00</batteria>
+  <pollici>5,40</pollici>
+  <fotocamera>13,00</fotocamera>
+  <memoria>64</memoria>
+  <colore>Nero</colore>
+  <connettivita>4G</connettivita>
+ </device>
+ <device type="laptop">
+  <CPU>2.20</CPU>
+  <RAM>16</RAM>
+  <marca>HP</marca>
+  <modello>AS2300</modello>
+  <hardisk>13</hardisk>
+  <SO>UbuntuT</SO>
+  <tipologia>Netbook</tipologia>
+  <batteria>8000.00</batteria>
+  <pollici>15.00</pollici>
+  <peso>2.10</peso>
+ </device>
+ <device type="desktop">
+  <CPU>2.20</CPU>
+  <RAM>16</RAM>
+  <marca>Packard Bell</marca>
+  <modello>7000s</modello>
+  <hardisk>SSD</hardisk>
+  <SO>Windows 10</SO>
+  <tipologia>all-in-one</tipologia>
+  <wattMin>200.00</wattMin>
+  <nHard>5</nHard>
+  <uso>Domestico</uso>
+ </device>
+ <device type="tablet">
+  <CPU>0.00</CPU>
+  <RAM>0</RAM>
+  <marca>s</marca>
+  <modello>s</modello>
+  <hardisk>Non specificato</hardisk>
+  <SO>Non specificato</SO>
+  <batteria>0.00</batteria>
+  <pollici>0.00</pollici>
+  <fotocamera>0.00</fotocamera>
+  <memoria>0</memoria>
+  <colore>Non specificato</colore>
+  <sim>1</sim>
+ </device>
+</devices>
